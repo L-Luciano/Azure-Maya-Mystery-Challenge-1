@@ -1,4 +1,4 @@
-# A Chat with A Deity 🌧🌈
+# A Chat with A Deity  🌧🌈
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). If you run it locally via `npm run start` you will be able to view the chat locally (on http://localhost:3000). But we'd like you to try it on Azure Static Sites!
 
